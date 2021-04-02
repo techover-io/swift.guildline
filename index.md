@@ -13,8 +13,8 @@ permalink: /
 ## Contributors  
 
 - [nhathm](https://github.com/nhathm){:target="_blank"}  
-- [nhathm](https://github.com/hale315){:target="_blank"}  
-- [nhathm](https://github.com/vdkhanhaptech){:target="_blank"}  
+- [halh4](https://github.com/hale315){:target="_blank"}  
+- [khanhvd1](https://github.com/vdkhanhaptech){:target="_blank"}  
 - [tamnxh](https://github.com/tamnxh){:target="_blank"}  
 
 **[Main Page](https://techover.io/)**

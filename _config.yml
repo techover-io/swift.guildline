@@ -53,7 +53,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-logo: "/docs/assets/images/logo-gst.ico"
+logo: "/docs/assets/images/logo-gst-with-content.png"
 
 search_enabled: true
 
